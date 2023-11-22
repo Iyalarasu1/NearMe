@@ -232,7 +232,7 @@ saradha.html
 
 
 ## OUTPUT
-![Alt text](iyal/myapp/myapp/static/map.png)
+![Alt text](iyal/myapp/myapp/static/map2.png)
 ![Alt text](iyal/myapp/myapp/static/home.png)
 ![Alt text](iyal/myapp/myapp/static/rani.png)
 ![Alt text](<iyal/myapp/myapp/static/raja (2).png>)
